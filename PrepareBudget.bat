@@ -1,4 +1,4 @@
-git tag > 1.txt
+git tag --points-at > 1.txt
 Set /P MyVar=<1.txt
 
 
