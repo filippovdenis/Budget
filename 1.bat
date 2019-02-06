@@ -1,3 +1,3 @@
-del d:\Projects\policyone.dataone\OneInc.PolicyOne.DataOne.SSIS\OneInc.PolicyOne.DataOne.SSIS.Transform.Load.P1Data\*.dtsx
+del d:\Projects\DigitalPaymentsDW\OneInc.ProcessOne.ProcessOneWH\OneInc.ProcessOne.ProcessOneWH.ETL\*.dtsx
 
-"d:\MyProjects\VSOLE\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe" "OneInc.PolicyOne.DataOne.SSIS\OneInc.PolicyOne.DataOne.SSIS.Transform.Load.P1Data\Miscellaneous\OneInc.PolicyOne.DataOne.SSIS.Transform.Load.P1Data.biml"
+"d:\MyProjects\VSOLE\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe" "D:\Projects\DigitalPaymentsDW\OneInc.ProcessOne.ProcessOneWH\OneInc.ProcessOne.ProcessOneWH.ETL\OneInc.ProcessOne.ProcessOneWH.Biml.ETL.sln" range "OneInc.ProcessOne.ProcessOneWH.Biml.ETL\OneInc.ProcessOne.ProcessOneWH.Biml.ETL\Miscellaneous\Connections.biml" "OneInc.ProcessOne.ProcessOneWH.Biml.ETL\OneInc.ProcessOne.ProcessOneWH.Biml.ETL\Miscellaneous\OneInc.ProcessOne.ProcessOneWH.ETL.UpdateTransactions.biml"
